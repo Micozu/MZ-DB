@@ -1,0 +1,7 @@
+customtkinter
+mysql-connector-python
+psycopg2
+pandas
+openpyxl
+sqlite3
+tk
